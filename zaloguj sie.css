@@ -1,0 +1,86 @@
+body
+{
+	 display: flex;
+	 background-color: #000000;
+	 font-family: titan one, sans-serif;
+}
+
+#utworzkonto
+{
+	width: 400px;
+	height: 500px;
+	border: #181A1A solid 10px;
+	line-height: 10px;
+	text-align: center;
+	margin: auto;
+	background-color: #ffffff;
+	font-size: 40px
+}
+
+#rejestrowanie
+{
+	width: 300px;
+	height: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+	display: main;
+	algin-items: main-end;
+	font-size: 20px;
+	line-height: 60px;
+}
+
+input[type=text]
+{
+	width: 260px;
+	height: 45px;
+	border: #000000 solid 2px;
+	margin-top:20px;
+}
+
+input[type=password]
+{
+	width: 260px;
+	height: 45px;
+	border: #000000 solid 2px;
+	margin-top: 20px;
+}
+input[type=checkbox]
+{
+	width: 15px;
+	width: 15px;
+	float: left;
+}
+
+#akceptowanie
+{
+	width: 350px;
+	height: 50px;
+	font-size: 15px;
+	line-height: 15px;
+	margin: auto;
+	display: main;
+	algin-items:main-start;
+	margin-top: 10px;
+	text-decoration: none;
+}
+
+.regulamin
+{
+	width: 350px;
+	height: 20px;
+	text-align: left;
+	margin-top: 10px;
+}
+
+input[type=button]
+{
+	width: 350px;
+	height: 45px;
+	font-size: 25px;
+	background-color: #B80003;
+	margin-top: 25px;
+	border: solid 3px #000000;
+	color: 000000;
+	font-family: titan one, sans serif;
+}
