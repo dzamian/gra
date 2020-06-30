@@ -1,0 +1,19 @@
+body
+{
+	font-family: lato;
+	background-color: #000000;
+}
+
+#regulamin
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 360px;
+	height: 560px;
+	color: #000000;
+	background-color: #ffffff;
+	padding: 30px;
+	font-size: 20px;
+	line-height: 30px;
+	border: #181A1A solid 10px;
+}
